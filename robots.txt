@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upamieti.github.io/CLJ/sitemap_index.txt
+Sitemap: https://upamieti.github.io/MRW/sitemap_index.txt
+Sitemap: https://upamieti.github.io/Rlv/sitemap_index.txt
+Sitemap: https://upamieti.github.io/gkF/sitemap_index.txt
